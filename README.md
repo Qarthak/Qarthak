@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings stranger! 
+### Github doesn't have a dm feature so if you wish to contact me, try my email f20190125@goa.bits-pilani.ac.in and I'll get back to you asap
+### Still in the process of making my Github ✨fancy✨ for the recruitors so stay tuned!
+
 
 <!--
 **Qarthak/Qarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
